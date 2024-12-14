@@ -5,7 +5,7 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/PavelPotapov/courseDE2024Practice
+   git clone https://github.com/rendel253/CourseFrontend
    cd courseDE2024Practice
    ```
 
